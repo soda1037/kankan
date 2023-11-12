@@ -1,2 +1,2 @@
 # kankan
-信息整合app. One for all, all in one
+一个信息整合app. One for all, all in one
